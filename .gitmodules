@@ -1,0 +1,6 @@
+[submodule "gael"]
+	path = gael
+	url = git@github.com:GaelVaroquaux/sklearn_ensae_course.git
+[submodule "alex"]
+	path = alex
+	url = git@github.com:agramfort/liesse_telecom_paristech_python.git
